@@ -4,3 +4,6 @@
 ### result_olympic_predict.csv -- predict result(csv)
 ### result.png -- predict result(png)
 ### ![predict result](result.png)
+
+***
+### unprepared_olympic_predict.csv -- predict result(Raw data & csv)
