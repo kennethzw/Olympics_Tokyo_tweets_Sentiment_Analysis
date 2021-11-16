@@ -8,7 +8,13 @@
 ### predictall.csv -- predict result
 ### predictall_parallel.csv -- predict result by parallel
 
+### dataBydate -- raw data by date
+
 ### predictBydate -- predict result by date
 
-### dataBydate -- raw data by date
+### predictBydateStatistics.xlsx -- Statistics  of result by date
+
+![](C:\Users\zhaowei\Desktop\project\Olympics_Tokyo_tweets_Sentiment_Analysis\PredictByDate.png)
+
+![](C:\Users\zhaowei\Desktop\project\Olympics_Tokyo_tweets_Sentiment_Analysis\rate.png)
 
