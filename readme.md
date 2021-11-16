@@ -1,9 +1,14 @@
 ### Olympics_Tokyo_tweets_Sentiment_Analysis.ipynb --  classifier model
-### sanders_tweets_train.txt -- training data
-### result_olympic.csv -- data prepared -- test data
-### result_olympic_predict.csv -- predict result(csv)
-### result.png -- predict result(png)
-### ![predict result](result.png)
+### train.csv -- training data
 
-***
-### unprepared_olympic_predict.csv -- predict result(Raw data & csv)
+### Olympics_Tokyo_tweets.csv -- test data
+
+### csvhandle.ipynb -- csv handle function
+
+### predictall.csv -- predict result
+### predictall_parallel.csv -- predict result by parallel
+
+### predictBydate -- predict result by date
+
+### dataBydate -- raw data by date
+
