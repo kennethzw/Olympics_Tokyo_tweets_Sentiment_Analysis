@@ -14,7 +14,13 @@
 
 ### predictBydateStatistics.xlsx -- Statistics  of result by date
 
-![](C:\Users\zhaowei\Desktop\project\Olympics_Tokyo_tweets_Sentiment_Analysis\PredictByDate.png)
+![](PredictByDate.png)
 
-![](C:\Users\zhaowei\Desktop\project\Olympics_Tokyo_tweets_Sentiment_Analysis\rate.png)
+
+
+
+
+![](rate.png)
+
+
 
